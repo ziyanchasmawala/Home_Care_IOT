@@ -1,0 +1,4 @@
+npm install react-icons
+npm install axios
+npm i react-router-dom
+npm i react-sliding-pane
